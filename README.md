@@ -19,6 +19,7 @@ Instale as bibliotecas com:
 
 ```bash
 pip install qrcode[pil] reportlab python-docx
+```bash
 
 🤖 Assistência de IA
 Este projeto foi criado com o auxílio da inteligência artificial ChatGPT, que ajudou no desenvolvimento do código, estruturação do projeto e documentação inicial.
