@@ -22,12 +22,15 @@ pip install qrcode[pil] reportlab python-docx
 ```
 
 🤖 Assistência de IA
+
 Este projeto foi criado com o auxílio da inteligência artificial ChatGPT, que ajudou no desenvolvimento do código, estruturação do projeto e documentação inicial.
 
 📄 Licença
+
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e contribuir.
 
 🛠️ Tecnologias utilizadas
+
 Python 3.x
 
 qrcode
